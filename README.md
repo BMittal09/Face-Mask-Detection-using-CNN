@@ -1,9 +1,9 @@
 # Face-Mask-Detection-using-CNN
-Overview
+## Overview
 
 This project is a Face Mask Detection System built using Convolutional Neural Networks (CNNs). It classifies whether a person is wearing a face mask or not based on image inputs. The model is trained on a dataset of masked and unmasked faces and can be used for real-time mask detection.
 
-Features
+## Features
 
 Deep Learning-based Face Mask Detection using CNN.
 
@@ -15,7 +15,7 @@ Model Training & Evaluation with accuracy metrics.
 
 Real-time detection using OpenCV (optional integration).
 
-Dataset
+## Dataset
 
 The dataset consists of two categories:
 
@@ -25,7 +25,7 @@ Without Mask – Images of people without face masks.
 
 The dataset is preprocessed with image augmentation techniques such as rotation, zoom, and flipping to enhance model generalization.
 
-Tech Stack
+## Tech Stack
 
 Python
 
